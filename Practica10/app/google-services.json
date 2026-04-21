@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089903457735",
+    "firebase_url": "https://practica10-36f14-default-rtdb.firebaseio.com",
+    "project_id": "practica10-36f14",
+    "storage_bucket": "practica10-36f14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089903457735:android:a57a4d99a9c5296ed015e2",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlH2ZPhniXIaIJ5XQqy2IIVtMQ-xFaWZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
